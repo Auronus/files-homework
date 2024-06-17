@@ -1,0 +1,5 @@
+.gitignore
+.idea
+netology.iml
+out/*
+src/oldbutgold/*
